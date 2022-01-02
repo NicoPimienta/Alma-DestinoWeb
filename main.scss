@@ -20,6 +20,15 @@ $verde-agua: #bef587;
   background-size:cover;
 }
 
+.fondo-estrella {
+  background-image: url(/assets/img/estrellas-en-el-universo-morado-4465.jpg);
+  min-height: 10px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
 
 * {
   margin: 0;
