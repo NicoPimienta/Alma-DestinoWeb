@@ -1,3 +1,7 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
 @import "./scss/boostrap-agency";
 
 $lila: #edb5f5;
@@ -30,10 +34,8 @@ $verde-agua: #bef587;
   color: white;
 }
 
-* {
-  margin: 0;
-  box-sizing: border-box;
-}
+
+
 
 // botón central
 
@@ -180,3 +182,16 @@ svg {
 .portfolio-modal .close-modal:hover {
   opacity: 0.3;
 }
+
+
+// CUSTOM BOTONES MODALS
+
+
+.boton-modal{
+  color: black;
+    background-color: #edb5f5;
+    border-color: #edb5f5;
+}
+
+// SEPARADOR DE SERVICIOS
+
