@@ -29,13 +29,10 @@ $verde-agua: #bef587;
   font-family: 'Permanent Marker', cursive;
 }
 
-.background-svg {
-  background-image: url(/assets/img/dots_texture.svg);
-  background-size: cover;
-}
+
 
 .fondo-estrella {
-  background-image: url(/assets/img/estrellas-en-el-universo-morado-4465.jpg);
+  background-image: url("/assets/img/estrellas-en-el-universo-morado-4465.jpg");
   min-height: 10px;
   background-attachment: fixed;
   background-position: center;
