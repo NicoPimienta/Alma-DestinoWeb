@@ -3416,6 +3416,19 @@
     background-color: #f8f9fa;
     border-color: #f8f9fa;
   }
+
+  .btn-hover-facebook:hover{
+  color: #000;
+  background-color: #2d88ff;
+  border-color: #f8f9fa;
+  }
+
+  .btn-hover-whatsapp:hover{
+  color: #000;
+  background-color: #35cd96;
+  border-color: #f8f9fa;
+  }
+
   .btn-check:focus + .btn-outline-light, .btn-outline-light:focus {
     box-shadow: 0 0 0 0.25rem rgba(248, 249, 250, 0.5);
   }
