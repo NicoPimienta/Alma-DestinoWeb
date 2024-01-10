@@ -52,3 +52,8 @@ window.addEventListener('DOMContentLoaded', event => {
     });
 
 });
+
+
+// Vercel Analytics
+
+window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
